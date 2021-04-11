@@ -28,6 +28,7 @@
             "timing" : "2 PM - 5 PM"
         }
       ```
+      ![Animal POST](https://github.com/Vaibhavsaharan/Animall-API/blob/master/images/Animall-POST.png)
       
      * Sample GET Request
       
@@ -41,4 +42,5 @@
               "radius" : 200
           }
         ```
+       ![Animal GET](https://github.com/Vaibhavsaharan/Animall-API/blob/master/images/Animall-GET.png)
       
